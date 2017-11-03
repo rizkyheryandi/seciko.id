@@ -1,0 +1,2 @@
+# seciko.id
+safelink
