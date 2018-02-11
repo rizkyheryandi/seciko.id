@@ -24,8 +24,8 @@ var xxx=null;
 if(x=="1"){xxx="how-to-save-money-on-car-insurance-in.html"}
 if(x=="2"){xxx="the-best-consideration-is-auto-insurance.html"}
 if(x=="3"){xxx="car-insurance-secrets-8-secrets-your.html"}
-if(x=="4"){xxx="car-insurance-secrets-8-secrets-your.html"}
-if(x=="5"){xxx="homeowners-insurance-quotes.html"}a_to_ve[i].href="http://www.skipad.online/2018/02/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="4"){xxx="homeowners-insurance-quotes.html"}
+if(x=="5"){xxx="insurance-on-your-personal-loan.html"}a_to_ve[i].href="http://www.skipad.online/2018/02/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
