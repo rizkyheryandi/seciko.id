@@ -19,7 +19,7 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
-var x=Math.floor((Math.random()*8)+ 1);
+var x=Math.floor((Math.random()*16)+ 1);
 var xxx=null;
 if(x=="1"){xxx="how-to-save-money-on-car-insurance-in.html"}
 if(x=="2"){xxx="the-best-consideration-is-auto-insurance.html"}
@@ -28,7 +28,15 @@ if(x=="4"){xxx="homeowners-insurance-quotes.html"}
 if(x=="5"){xxx="insurance-on-your-personal-loan.html"}
 if(x=="6"){xxx="asuransi-perjalanan-terbaik-di.html"}
 if(x=="7"){xxx="understand-5-ways-for-health-insurance.html"}
-if(x=="8"){xxx="best-travel-insurance-in-indonesia-2018.html"}a_to_ve[i].href="http://www.skipad.online/2018/02/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="8"){xxx="best-travel-insurance-in-indonesia-2018.html"}
+if(x=="9"){xxx="navy-veterans-mesothelioma-asbestos.html"}
+if(x=="10"){xxx="mesothelioma-law-firm-find-asbestos-law.html"}
+if(x=="11"){xxx="mesothelioma-and-asbestos-claims.html"}
+if(x=="12"){xxx="car-insurance-quotes.html"}
+if(x=="13"){xxx="mesothelioma-treatment-options-how-to.html"}
+if(x=="14"){xxx="treatment-of-mesothelioma-current.html"}
+if(x=="15"){xxx="term-life-insurance-quotes-cost.html"}
+if(x=="16"){xxx="a-beginners-guide-to-life-insurance.html"}a_to_ve[i].href="http://www.skipad.online/2018/02/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
