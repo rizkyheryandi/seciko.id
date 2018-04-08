@@ -41,7 +41,12 @@ if(x=="17"){xxx="2018/03/how-to-buy-car-insurance.html"}
 if(x=="18"){xxx="2018/03/the-best-car-insurance-to-suit-your.html"}
 if(x=="19"){xxx="2018/03/find-good-life-insurance-online-in-3.html"}
 if(x=="20"){xxx="2018/03/moreno-valley-car-accident-injury-lawyer.html"}
-if(x=="21"){xxx="2018/03/best-auto-insurance-quotes-how-to-get.html"}a_to_ve[i].href="http://www.skipad.online/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="21"){xxx="2018/03/best-auto-insurance-quotes-how-to-get.html"}
+if(x=="22"){xxx="2018/04/planning-future-easily-with-over-50.html"}
+if(x=="23"){xxx="2018/04/choose-best-car-insurance-company.html"}
+if(x=="24"){xxx="2018/03/how-to-get-online-auto-insurance-quotes.html"}
+if(x=="25"){xxx="2018/03/tips-to-finding-low-auto-insurance-rates.html"}
+if(x=="26"){xxx="2018/03/chicago-asbestos-and-mesothelioma.html"}a_to_ve[i].href="http://www.skipad.online/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
